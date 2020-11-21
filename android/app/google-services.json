@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274879232409",
+    "firebase_url": "https://yalla-abunsair.firebaseio.com",
+    "project_id": "yalla-abunsair",
+    "storage_bucket": "yalla-abunsair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274879232409:android:c831932eef29258b543b08",
+        "android_client_info": {
+          "package_name": "com.yalla.abunsair.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274879232409-cn7ej98qls03idjvv29jubc1q0ip9ikg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAon1w8GHjBsGQqqLtVXjIb-X0d50fvTz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274879232409-cn7ej98qls03idjvv29jubc1q0ip9ikg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
